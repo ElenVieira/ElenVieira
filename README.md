@@ -1,6 +1,7 @@
 ## 📊 Elen Vieira
 
-Sou Analista de Dados e Desenvolvedora RPA focada em **eficiência operacional e visualização de dados**. Transformo informações em decisões estratégicas e construo automações para otimizar fluxos de trabalho. Atualmente, curso Análise e Desenvolvimento de Sistemas (FATEC) e estou construindo o **Easy-Swap**, um sistema que facilitará a gestão de logística reversa e trocas para e-commerces.
+Sou Analista de Dados e BI, com foco em transformar dados em análises, dashboards e automações que apoiam decisões de negócio. Tenho experiência com SQL, Power BI, Looker Studio, integrações via APIs e automação de processos.  
+Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca e venho aprofundando meus conhecimentos em Engenharia de Dados, com estudos práticos em BigQuery, Docker, Apache Airflow, ETL/ELT e arquitetura de dados em camadas.
 
 <br>
 
