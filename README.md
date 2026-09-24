@@ -1,8 +1,8 @@
 ## 📊 Elen Vieira
 
-Sou Analista de Dados e BI, com foco em transformar dados em análises, dashboards e automações que apoiam decisões de negócio. Tenho experiência com SQL, Power BI, Looker Studio, integrações via APIs e automação de processos.
+Sou Analista de Dados e BI, com foco em transformar dados em análises, dashboards, automações e soluções que apoiam decisões de negócio. Tenho experiência com SQL, Power BI, Looker Studio, integrações via APIs, automação de processos e dados de e-commerce, CRM e marketing.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca e venho aprofundando meus conhecimentos em Engenharia de Dados, com estudos práticos em BigQuery, Docker, Apache Airflow, ETL/ELT e arquitetura de dados em camadas.
+Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca e atuo em um projeto de Engenharia de Dados em produção, voltado ao rastreamento de eventos de site. Trabalho com BigQuery, Docker, Apache Airflow, ETL/ELT e arquitetura de dados em camadas para estruturar dados de navegação, funil e conversão de forma confiável e acessível para análise.
 
 <br>
 
