@@ -6,7 +6,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca e atuo e
 
 ### 🌐 Portifólio
 
-[![Acesse meu site](https://img.shields.io/badge/Ver%20blog-0B1020?style=for-the-badge&logo=githubpages&logoColor=6EE7F9)](https://elenvieira.github.io/skills-github-pages/)
+[![Acesse meu site](https://img.shields.io/badge/Ver%20portifólio-0B1020?style=for-the-badge&logo=githubpages&logoColor=6EE7F9)](https://elenvieira.github.io/skills-github-pages/)
 
 <br>
 
