@@ -35,13 +35,19 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca e atuo e
 
 <br>
 
-### 📈 Minha atividade no GitHub
+<br>
 
-<div align="left">
-  <a href="https://github.com/ElenVieira">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=ElenVieira&show_icons=true&show=reviews&hide=stars,issues,contribs&hide_rank=true&bg_color=0B1020&title_color=6EE7F9&text_color=E6EDF3&icon_color=BE8CFF&border_color=BE8CFF&custom_title=Atividade%20no%20GitHub"
-      alt="Estatísticas de commits, pull requests e revisões de código de Elen Vieira"
-    >
-  </a>
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com/?user=ElenVieira&theme=react&hide_border=false&border_radius=10"
+    alt="Contribuições e sequência de atividade de Elen Vieira"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=ElenVieira&show_icons=true&theme=react&rank_icon=github&border_radius=10&custom_title=Elen%20Vieira%20GitHub%20Stats"
+    alt="Estatísticas de atividade de Elen Vieira no GitHub"
+  />
+</p>
