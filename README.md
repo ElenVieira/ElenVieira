@@ -32,3 +32,16 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca e atuo e
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
+
+<br>
+
+### 📈 Minha atividade no GitHub
+
+<div align="left">
+  <a href="https://github.com/ElenVieira">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=ElenVieira&show_icons=true&show=reviews&hide=stars,issues,contribs&hide_rank=true&bg_color=0B1020&title_color=6EE7F9&text_color=E6EDF3&icon_color=BE8CFF&border_color=BE8CFF&custom_title=Atividade%20no%20GitHub"
+      alt="Estatísticas de commits, pull requests e revisões de código de Elen Vieira"
+    >
+  </a>
+</div>
