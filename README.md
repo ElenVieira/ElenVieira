@@ -42,12 +42,12 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Franca e atuo e
 <p align="center">
   <img
     width="49%"
-    src="https://streak-stats.demolab.com/?user=ElenVieira&theme=react&hide_border=false&border_radius=10"
+    src="./profile/streak.svg"
     alt="Contribuições e sequência de atividade de Elen Vieira"
   />
   <img
     width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=ElenVieira&show_icons=true&theme=react&rank_icon=github&border_radius=10&custom_title=Elen%20Vieira%20GitHub%20Stats"
+    src="./profile/stats.svg"
     alt="Estatísticas de atividade de Elen Vieira no GitHub"
   />
 </p>
