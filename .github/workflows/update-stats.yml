@@ -1,0 +1,53 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    # Todos os dias às 09h17 de Brasília (12h17 UTC).
+    - cron: "17 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-estatisticas
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v6
+
+      - name: Gerar card de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=ElenVieira&show_icons=true&theme=react&rank_icon=github&border_radius=10&custom_title=Elen%20Vieira%20GitHub%20Stats
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Gerar card de sequência
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=ElenVieira&theme=react&hide_border=false&border_radius=10
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar imagens atualizadas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nas imagens."
+            exit 0
+          fi
+
+          git commit -m "docs: atualiza estatísticas do perfil"
+          git push
